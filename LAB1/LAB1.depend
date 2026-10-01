@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1790241328 source:c:\users\student\onedrive\desktop\1ga25ad071\lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+
